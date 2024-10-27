@@ -13,6 +13,11 @@
         "internalType": "address"
       },
       {
+        "name": "_rewardsCoordinator",
+        "type": "address",
+        "internalType": "address"
+      },
+      {
         "name": "_delegationManager",
         "type": "address",
         "internalType": "address"

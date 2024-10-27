@@ -26,3 +26,6 @@ debug/
 
 yarn.lock
 contracts/deployments/
+
+# Ignore v0.md file
+v0.md
